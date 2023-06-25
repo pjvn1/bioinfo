@@ -1,0 +1,5 @@
+idanimals,kingdom,phylum,class,subclass,order_animal,family,subfamily,genus,subgenus,epiteto,species,subspecies,functional_group,abundance,sexo,caste,development_stage,determination_start,determination_end,biomass
+1,animalia,chordata,mammalia,theria,primates,Hominoidae,Homininae,Homo,nt,ns,"H. Sapiens",bs,ns,world,MF,ns,ns,ns,ns,ns
+2,animalia,chordata,mammalia,-,carnivora,Canidae,-,Canis,-,-,"C. Lupus","C. I. Familiaris",0,-,-,-,-,-,-,-
+3,animalia,chordata,"mammalia ",-,Carnivora,Felidae,Felinae,Felis,-,-,"Felis Catus",-,-,-,-,-,-,-,-,-
+4,animalia,chordata,mammalia,protheria,monotremata,ornithorhynchidae,-,Ornithorhynchidae,-,-,"O. anatinus",-,-,-,-,-,-,-,-,-

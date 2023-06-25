@@ -1,0 +1,1 @@
+CREATE TABLE `bioinfo`.`speciesauthor` (`id` VARCHAR NOT NULL , `last_name` VARCHAR(15) NOT NULL , `class_year` VARCHAR(15) NOT NULL , PRIMARY KEY (`id `)) ENGINE = InnoDB;
